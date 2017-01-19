@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TitleBarLayout">
+        <attr name="leftButton" format="reference" />
+        <attr name="rightButton" format="reference" />
+        <attr name="centerTitle" format="string|reference" />
+        <attr name="background" format="reference" />
+        <attr name="alpha" format="integer" />
+    </declare-styleable>
+
+</resources>
